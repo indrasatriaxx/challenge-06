@@ -1,0 +1,17 @@
+
+.table{
+	border-radius: 100px;
+}
+.thead{
+	background-color:#CFD4ED;
+}
+.thead{
+	font-size:14px;
+}
+.tbody{
+	font-size: 12px;
+	background-color:#fff;
+}
+.btn-toggle{
+	color: #D0D0D0;
+}
